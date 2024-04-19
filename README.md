@@ -1,2 +1,2 @@
 # carrinho-de-compras
-Aprendendo JavaScript
+Aprendendo JavaScript para Front-End.
